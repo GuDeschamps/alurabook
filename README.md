@@ -1,6 +1,6 @@
-# Olá, Bem vindo ao meu Projeto feito com base no curso da Alura o AluraBook (html-css-responsividade-mobile-first)
+# Olá, Bem vindo ao meu Projeto feito com base no curso da Alura o AluraBook.
 
-Desenvolvendo com base no curso alura (html-css-responsividade-mobile-first). <br>
+Desenvolvendo com base no curso alura, HTML e CSS: responsividade com mobile-first. <br>
 
 ## Funcionalidades
 
